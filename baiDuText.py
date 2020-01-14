@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-#*** 吾爱 17788210295
 import requests
 import re
 from json import loads
